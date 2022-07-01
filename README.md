@@ -1,2 +1,2 @@
 # CourseEnrollmentJavaConsole
-1. Minimum need to configure java 11 Version
+1. Minimum need to configure java 10 Version
